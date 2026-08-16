@@ -1,0 +1,30 @@
+{
+  "searches": [
+    {
+      "keywords": "ai engineer",
+      "geoId": "92000000",
+      "f_WT": "2",
+      "f_TPR": "r3600",
+      "sortBy": "DD"
+    },
+    {
+      "keywords": "full stack engineer",
+      "geoId": "92000000",
+      "f_WT": "2",
+      "f_TPR": "r3600",
+      "sortBy": "DD"
+    },
+    {
+      "keywords": "react",
+      "geoId": "92000000",
+      "f_WT": "2",
+      "f_TPR": "r3600",
+      "sortBy": "DD"
+    }
+  ],
+  "check_interval_seconds": 300,
+  "max_company_followers": 1000,
+  "max_applicants": 10,
+  "company_cache_days": 7,
+  "blacklist_words": ["senior", "lead", "manager", "staff", "principal"]
+}
